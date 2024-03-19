@@ -1,2 +1,5 @@
-# practice
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+# BaekjoonHub / 코딩테스트
+
+꾸준히 연습하려고 노력합니다. 
+
