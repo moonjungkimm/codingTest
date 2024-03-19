@@ -3,8 +3,4 @@
 
 꾸준히 연습하려고 노력합니다. 
 
-<div align="center">
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={moon_d_2@naver.com})](https://solved.ac/{handle})
- 
-</div>
+작성한 코드와 피드백은 https://url.kr/tkg8wa 에서 확인할 수 있습니다.
